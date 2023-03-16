@@ -14,10 +14,15 @@ body
     margin: 0;
     padding: 0.5em;
 }
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
 #post
 {
     padding: 1em;
-
 }
 
 #container 
