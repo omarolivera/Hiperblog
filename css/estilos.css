@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: rgb(232, 9, 128);
+=======
+    color: rgb(233, 8, 8);
+>>>>>>> cabecera
     text-align: left;
     font-family: 'Courier New', Courier, monospace;
     margin: 0px;
@@ -18,7 +22,7 @@ body
 {
     padding: 0 0 0 1em;
     font-weight: normal;
-    font-size: 0.8em;
+    font-size: 0.8em;   
 }
 #post
 {
