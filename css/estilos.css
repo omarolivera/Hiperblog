@@ -2,7 +2,7 @@ body
 {
     color: rgb(45, 32, 39);
     text-align: left;
-    font-family: "Arial";
+    font-family: 'Courier New', Courier, monospace;
     margin: 0px;
     padding: 0px;
 }
