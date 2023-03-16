@@ -1,7 +1,9 @@
 historia.txt
-dsfsdfsdfsdfsdsdfdsfds
+WebSockets add an exciting layer to web development 
+– one that shines particularly bright in decentralized technologies. 
+Open, public blockchains need an instant flow of data. 
+With WebSocket APIs and Moralis Speedy nodes, creative development in the exciting 
+crypto industry is boosted to max levels. 
 
-dnfdfdf
+hola omar
 
-
-dsf
